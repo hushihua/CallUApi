@@ -1,0 +1,4 @@
+framework module CallUApi {
+  header "CallUApi-Swift.h"
+  requires objc
+}
